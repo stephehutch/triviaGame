@@ -1,0 +1,15 @@
+.page {
+    min-height: 1000px;
+}
+
+.container {
+    min-height: 400px;
+}
+
+br{
+    height: 20px;
+}
+
+.none {
+    visibility: hidden;
+}
