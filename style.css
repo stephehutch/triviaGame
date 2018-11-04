@@ -1,15 +1,51 @@
 .page {
     min-height: 1000px;
+    background-image: url("https://m.media-amazon.com/images/M/MV5BOTViY2Y0ZGItMTg2OC00YzEzLWJhYjYtZjg4OTMyOWE4YzM1XkEyXkFqcGdeQXVyNTQ1NzU4Njk@._V1_.jpg");
 }
 
 .container {
     min-height: 400px;
+    padding-bottom: 40px;
+    opacity: .8;
+}
+.info-group {
+    padding: 10px;
+    max-width: 90%;
+    margin: auto;
+    margin: 2%,
 }
 
 br{
     height: 20px;
 }
 
+/* .gameShow {
+    max-width: 50%;
+} */
+
 .none {
     visibility: hidden;
 }
+
+#question{
+    max-width: 900px;
+    margin: auto;
+}
+
+.choice:hover{
+    background-color: #868e96;
+    border-radius: 2px; 
+}
+
+img{
+    max-width: 100%;
+}
+
+/* #line{
+    text-align: right;
+} 
+a:hover {
+    color: #FF00FF;
+}
+
+*/
